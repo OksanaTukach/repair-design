@@ -5,6 +5,18 @@ body {
   margin-right: auto;
 }
 
+@media (max-width: 375px) {
+  body {
+    width: 375px;
+  }
+}
+
+@media (min-width: 1440px) {
+  body {
+    width: 1440px;
+  }
+}
+
 video {
   -o-object-fit: inherit;
      object-fit: inherit;
