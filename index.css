@@ -784,7 +784,7 @@ video {
 
 @media (max-width: 1035px) {
   .main .block5 {
-    height: 1050px;
+    height: 1100px;
   }
 }
 
@@ -2081,7 +2081,7 @@ video {
   text-align: center;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1010px) {
   .main .block14__map img {
     width: 600px;
     height: 350px;

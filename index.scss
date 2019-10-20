@@ -615,7 +615,7 @@ video{
         height: 890px;
         background-color: rgb(255, 255, 255);
         @media (max-width:1035px){
-            height: 1050px;
+            height: 1100px;
         }
         @media (max-width:697px){
             height:1909px;
@@ -1618,7 +1618,7 @@ video{
         &__map{
             text-align: center;
             img{
-                @media (max-width:1000px){
+                @media (max-width:1010px){
                     width: 600px;
                     height: 350px;
                 }
