@@ -5,9 +5,11 @@ body {
     margin-right: auto;
     @media (max-width:375px) {
         width: 375px;
+        position: relative;
     }
     @media (min-width:1440px) {
-        width:1440px
+        width:1440px;
+        position: relative;
     }
 }
 video{

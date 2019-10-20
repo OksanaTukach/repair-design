@@ -8,12 +8,14 @@ body {
 @media (max-width: 375px) {
   body {
     width: 375px;
+    position: relative;
   }
 }
 
 @media (min-width: 1440px) {
   body {
     width: 1440px;
+    position: relative;
   }
 }
 
@@ -935,7 +937,7 @@ video {
       flex-wrap: wrap;
 }
 
-@media (max-width: 697px) {
+@media (max-width: 1035px) {
   .main .block6 {
     display: none;
   }
